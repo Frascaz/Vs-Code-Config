@@ -1,0 +1,58 @@
+{
+    "chat.agent.enabled": false,
+    "redhat.telemetry.enabled": false,
+    "git.autofetch": true,
+    "[java]": {
+
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.defaultFormatter": "Oracle.oracle-java"
+    },
+
+
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line",
+    "editor.renderLineHighlight": "gutter",
+    "editor.renderWhitespace": "none",
+    "editor.occurrencesHighlight": "multiFile",
+    "editor.selectionHighlight": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true, 
+    "editor.tokenColorCustomizations": {
+            "textMateRules": [
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "fontStyle": "italic bold " 
+                    }    
+                } 
+            ]
+    },
+    "editor.lineHeight": 1.70,
+    "editor.minimap.enabled": false,    
+
+
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.activityBar.location": "bottom",
+    "workbench.editor.showTabs": "single",    
+    "workbench.statusBar.visible": false,
+    "workbench.tips.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+
+
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "window.menuBarVisibility": "toggle",
+    "files.associations": {
+        "*.java": "java"
+    },
+
+
+
+
+    
+    
+}

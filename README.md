@@ -2,6 +2,9 @@
 
 This is my personal Visual Studio Code settings.json, might add later extensions and snippets.
 
+<img width="1902" height="996" alt="image" src="https://github.com/user-attachments/assets/5d30dd7f-5df2-46a8-84b7-b447204160b1" />
+
+
 ## Description
 
 This repository serves as a centralized backup and documentation of my VS Code environment. It is designed to ensure a consistent coding experience across different machines and to automate the setup process for my development workflow.
